@@ -1,4 +1,3 @@
-import React from "react";
 import path from "path";
 import fs from "fs";
 
